@@ -1,2 +1,2 @@
 # css-frameworks-ca
-sosial media site created with ht,l boottrap sass js
+sosial media site created with html boottrap sass js
