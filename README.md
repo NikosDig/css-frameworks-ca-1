@@ -1,2 +1,8 @@
 # css-frameworks-ca
-Replace this text with a description of your social media project.
+social media site  created with 
+<ul>
+  <li>HTML</li>
+  <li>BOOTSTRAP</li>
+  <li>SASS</li>
+  <li>JS</li>
+ </ul>
